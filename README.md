@@ -9,8 +9,8 @@
   <link rel="stylesheet" href="PEAQSYS.css" type="text/css">
   <title>Peaqsys.com</title>
   <meta name="keywords" content="PEAQ Systems"> </head>
+
 <style> 
-  
 // Semantic color scheme
 $theme-colors: (
   primary: #007bff,

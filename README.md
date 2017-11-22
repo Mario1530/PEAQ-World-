@@ -8,7 +8,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
   <link rel="stylesheet" href="PEAQSYS.css" type="text/css">
   <title>Peaqsys.com</title>
-  <meta name="keywords" content="PEAQ Systems"> </head>
+  <meta name="keywords" content="PEAQ Systems"> 
+</head>
 
 <style> 
 // Semantic color scheme
